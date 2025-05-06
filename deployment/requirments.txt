@@ -219,6 +219,7 @@ mkl-fft @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mkl_fft_
 mkl-random @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mkl_random_1699473588250/work
 mkl-service==2.4.0
 mmh3==5.1.0
+openai
 more-itertools @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/more-itertools_1701811589421/work
 mpmath @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mpmath_1699484863771/work
 msgpack @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/msgpack-python_1699473924872/work
