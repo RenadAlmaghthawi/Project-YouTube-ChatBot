@@ -48,7 +48,7 @@ mkl-service==2.4.0
 mmh3==5.1.0
 oauthlib==3.2.2
 onnxruntime==1.21.1
-openai==0.28.0
+openai>=1.68.2,<2.0.0
 openai-whisper==20240930
 opencv-python==4.11.0.86
 opentelemetry-api==1.32.1
