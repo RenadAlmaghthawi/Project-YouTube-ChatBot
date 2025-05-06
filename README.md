@@ -63,7 +63,7 @@ Download the file Multimodal_YouTube_Bot_InferaTube.py and place it inside your 
 ### Step 4: Run the Application
 Run the Streamlit application using the following command:
 ```bash
-streamlit run app.py
+streamlit run youtube_chatbot_streamlit.py
 ```
 ---
 
