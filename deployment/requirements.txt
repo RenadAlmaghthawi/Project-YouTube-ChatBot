@@ -1,6 +1,7 @@
 aiohttp==3.10.11
 asgiref==3.8.1
 backoff==2.2.1
+pyaudio
 chromadb==1.0.7
 dataclasses-json==0.6.7
 Deprecated==1.2.18
