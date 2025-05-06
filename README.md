@@ -60,16 +60,14 @@ PINECONE_API_KEY=your_key
 LANGCHAIN_API_KEY=your_key
 GOOGLE_APPLICATION_CREDENTIALS=your_credentials.json
 ```
----
 
-## Usage Guide
-
-1. **Run the chatbot**
+**Run the chatbot**
 ```bash
 python Multimodal_YouTube_Bot_ InferaTube.py
 ```
+---
 
-Example Output:
+## Usage Guide
 ```
 Question: What is the “technological gaze,” and how does Elise Hu define it?
 
