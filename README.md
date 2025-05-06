@@ -37,33 +37,30 @@ Users can:
 
 ---
 
-## ⚙️ Setup Instructions
+## How to Run the Project 🚀
 
-### Requirements
-Make sure you have the following installed:
+Follow these steps to set up and run the project on your local machine:
 
+### Step 1: Clone the Repository
+
+First, clone the repository to your local machine using Git:
+
+```bash
+git clone <repository_url>
+cd <repository_directory>
+```
+### Step 2: Install Dependencies
+Install the required dependencies listed in requirements.txt:
 ```bash
 pip install -r requirements.txt
 ```
+### Step 3: Download the file (Multimodal_YouTube_Bot_InferaTube.py)
+Once downloaded, place it in the project directory.
 
-### Required API Keys:
-- OpenAI API Key
-- Pinecone API Key
-- Google Cloud credentials (for ASR)
-- LangChain (LangSmith) API Key
-
-### Environment Variables
-Configure the following in your `.env` file or export them:
-```
-OPENAI_API_KEY=your_key
-PINECONE_API_KEY=your_key
-LANGCHAIN_API_KEY=your_key
-GOOGLE_APPLICATION_CREDENTIALS=your_credentials.json
-```
-
-**Run the chatbot**
+### Step 4: Run the Application
+Run the Streamlit application using the following command:
 ```bash
-python Multimodal_YouTube_Bot_ InferaTube.py
+streamlit run app.py
 ```
 ---
 
