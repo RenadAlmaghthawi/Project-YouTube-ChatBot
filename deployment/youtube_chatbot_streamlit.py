@@ -23,7 +23,7 @@ from dotenv import load_dotenv
 import asyncio
 
 
-from project.deployments.multimodal_youtube_bot import (
+from multimodal_youtube_bot import (
     extract_video_id,
     recognize_google_cloud,
     transcribe_audio_with_timestamps,
