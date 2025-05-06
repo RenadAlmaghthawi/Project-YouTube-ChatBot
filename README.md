@@ -55,10 +55,10 @@ cd <repository_directory>
 ### Step 2: Install Dependencies
 Install the required dependencies listed in requirements.txt:
 ```bash
-pip install -r requirements.txt
+pip install -r requirments.txt
 ```
 ### Step 3: Download the file 
-Download the file Multimodal_YouTube_Bot_InferaTube.py and place it inside your project directory
+Download the file Multimodel_YouTube_ChatBot.py and place it inside your project directory
 
 ### Step 4: Run the Application
 Run the Streamlit application using the following command:
