@@ -77,7 +77,6 @@ Answer: The "technological gaze" is defined by Elise Hu as an algorithmically dr
 ```
 ---
 
-🎥 Demo
 ![🔗]()
 🚀 Try it out (locally or on Streamlit Cloud).
 Upload a video URL, ask your question, and receive spoken or written answers — instantly!
