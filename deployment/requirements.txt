@@ -3,4 +3,5 @@ streamlit==1.45.0
 pinecone==6.0.2
 yt-dlp==2025.4.30
 whisper
+langchain_pinecone
 
