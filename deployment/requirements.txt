@@ -7,5 +7,6 @@ seaborn
 pillow
 plotly
 requests
+pyaudio
 
 
