@@ -44,7 +44,6 @@ langchain-tests==0.3.19
 langchain-text-splitters==0.3.8
 langsmith==0.3.38
 marshmallow==3.26.1
-mkl-service==2.4.0
 mmh3==5.1.0
 oauthlib==3.2.2
 onnxruntime==1.21.1
@@ -65,6 +64,7 @@ orjson==3.10.18
 pinecone==6.0.2
 pinecone-plugin-interface==0.0.7
 pipwin==0.5.2
+mkl-service==2.4.2
 playsound==1.2.2
 pluggy==1.5.0
 posthog==4.0.1
