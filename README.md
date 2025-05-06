@@ -10,6 +10,9 @@ Users can:
 - 📑 Get text or audio responses
 - 🧠 Take quizzes or generate summaries
 ---
+## ✨ Project Presentation
+ [Download Project Presentation](https://docs.google.com/presentation/d/1FrKcuqxVKZNMAbtsKAXvQ5JZHzWaUjgK/edit?usp=sharing&ouid=103884519830050993917&rtpof=true&sd=true)
+---
 
 ## 🔄 System Flow
 1. The user enters a YouTube video URL  
