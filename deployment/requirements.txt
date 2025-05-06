@@ -5,4 +5,5 @@ yt-dlp==2025.4.30
 whisper
 langchain_pinecone
 langchain_community
+transformers
 
