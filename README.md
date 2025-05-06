@@ -26,7 +26,6 @@ Users can:
 ![Flowchart Diagram](assets/FlowChart.png)
 
 ---
----
 
 ## Evaluation
 * **Hallucination Detection:**
@@ -38,7 +37,7 @@ Users can:
 
 ---
 
-## Setup Instructions
+## ⚙️ Setup Instructions
 
 ### Requirements
 Make sure you have the following installed:
@@ -80,39 +79,9 @@ Answer: The "technological gaze" is defined by Elise Hu as an algorithmically dr
 ```
 ---
 
-## How to Run the Code
-
-### 1. Clone the Repository  
-```bash
-Start by cloning the repository to your local machine or environment:
-git clone <repository-url>
-cd <repository-folder>
-```
-### 2. Install Required Libraries  
-```bash
-Install all necessary libraries using pip:
-pip install -r requirements.txt
-```
-### 3. Set Up the API Key for OpenAI 
-```bash
-Make sure to set up your OpenAI API key in the environment. You can do this by adding it to the script or configuring it as an environment variable.
-export OPENAI_API_KEY="your_api_key"
-```
-Alternatively, you can pass the API key directly in the script, as shown in the provided code.
-
-### 4. Run the Code  
-After setting up your environment, you can run the code to classify reviews, cluster products, and generate summaries. Execute the following:
-
-```bash
-python main.py
-```
-
-
-## Demo
-
-🔗(  ) This is our project for Multimodal AI Chatbot for YouTube Videos. Feel free to try it out and share it with your friends!
-  
-
-<br>
+🎥 Demo
+![🔗]()
+🚀 Try it out (locally or on Streamlit Cloud).
+Upload a video URL, ask your question, and receive spoken or written answers — instantly!
 
 
