@@ -6,4 +6,5 @@ whisper
 langchain_pinecone
 langchain_community
 transformers
+pyaudio
 
